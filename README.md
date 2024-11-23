@@ -65,62 +65,67 @@ Structured roadmap for learning Python specifically for Data Science
 
 >>Data Cleaning
 
-Handling missing values, outliers, duplicates
+>>missing values, outliers, duplicates
 
-Data Transformation
+>>Data Transformation
 
-Scaling, encoding categorical variables
+>>Scaling, encoding categorical variables
 
 **6. Machine Learning
-Scikit-Learn
 
-Supervised learning (regression, classification)
+>>Scikit-Learn
 
-Unsupervised learning (clustering, dimensionality reduction)
+>>Supervised learning (regression, classification)
 
-Model evaluation and validation
+>>Unsupervised learning (clustering, dimensionality reduction)
+
+>>Model evaluation and validation
 
 **7. Advanced Topics
-Deep Learning
 
-Introduction to neural networks, using TensorFlow or PyTorch
+>>Deep Learning
 
-Natural Language Processing (NLP)
+>>Introduction to neural networks, using TensorFlow or PyTorch
 
-Text preprocessing, sentiment analysis, topic modeling
+>>Natural Language Processing (NLP)
 
-Time Series Analysis
+>>Text preprocessing, sentiment analysis, topic modeling
 
-ARIMA, exponential smoothing, LSTM networks
+>>Time Series Analysis
+
+>>ARIMA, exponential smoothing, LSTM networks
 
 **8. Project Work
-Kaggle Competitions
 
-Participate in Kaggle to apply your skills and learn from others
+>>Kaggle Competitions
 
-Personal Projects
+>>Participate in Kaggle to apply your skills and learn from others
 
-Work on real-world datasets that interest you
+>>Personal Projects
 
-GitHub
+>>Work on real-world datasets that interest you
 
-Share your projects and collaborate with others
+>>GitHub
+
+>>Share your projects and collaborate with others
 
 **9. Soft Skills
-Communication
 
-Presenting your findings effectively
+>>Communication
 
-Problem-Solving
+>>Presenting your findings effectively
 
-Analytical thinking and problem-solving skills
+>>Problem-Solving
 
-Collaboration
+>>Analytical thinking and problem-solving skills
 
-Working on team projects and collaborating with others
+>>Collaboration
+
+>>Working on team projects and collaborating with others
 
 **10. Continuous Learning
-Stay Updated
+
+>>Stay Updated
 
 Keep up with the latest trends and technologies in data science
 
